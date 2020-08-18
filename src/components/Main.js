@@ -62,7 +62,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Work</h2>
+          <h2 className="major">Usługi</h2>
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
@@ -91,7 +91,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">About</h2>
+          <h2 className="major">O mnie</h2>
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
@@ -114,7 +114,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Contact</h2>
+          <h2 className="major">Kontakt</h2>
           <form method="post" action="#">
             <div className="field half first">
               <label htmlFor="name">Name</label>
