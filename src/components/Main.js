@@ -117,23 +117,23 @@ class Main extends React.Component {
           <h2 className="major">Kontakt</h2>
           <form method="post" action="https://www.flexyform.com/f/03fb37553140981cb8c6e0952029926b65631683">
             <div className="field half first">
-              <label htmlFor="name">Name</label>
+              <label htmlFor="name">Imię i nazwisko</label>
               <input type="text" name="name" id="name" />
             </div>
             <div className="field half">
-              <label htmlFor="email">Email</label>
+              <label htmlFor="email">E-mail</label>
               <input type="text" name="email" id="email" />
             </div>
             <div className="field">
-              <label htmlFor="message">Message</label>
+              <label htmlFor="message">Wiadomość</label>
               <textarea name="message" id="message" rows="4"></textarea>
             </div>
             <ul className="actions">
               <li>
-                <input type="submit" value="Send Message" className="special" />
+                <input type="submit" value="Wyślij" className="special" />
               </li>
               <li>
-                <input type="reset" value="Reset" />
+                <input type="reset" value="Wyczyść" />
               </li>
             </ul>
           </form>
@@ -141,9 +141,9 @@ class Main extends React.Component {
             <li>
               <a
                 href="https://twitter.com/HuntaroSan"
-                className="icon fa-twitter"
+                className="icon fa-500px"
               >
-                <span className="label">Twitter</span>
+                <span className="label">500px</span>
               </a>
             </li>
             <li>
@@ -154,14 +154,6 @@ class Main extends React.Component {
             <li>
               <a href="https://codebushi.com" className="icon fa-instagram">
                 <span className="label">Instagram</span>
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://github.com/codebushi/gatsby-starter-dimension"
-                className="icon fa-github"
-              >
-                <span className="label">GitHub</span>
               </a>
             </li>
           </ul>
