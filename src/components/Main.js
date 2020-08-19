@@ -140,19 +140,19 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
-                href="https://twitter.com/HuntaroSan"
+                href="https://500px.com/lukas33"
                 className="icon fa-500px"
               >
                 <span className="label">500px</span>
               </a>
             </li>
             <li>
-              <a href="https://codebushi.com" className="icon fa-facebook">
+              <a href="hhttps://www.facebook.com/sawickifotografia" className="icon fa-facebook">
                 <span className="label">Facebook</span>
               </a>
             </li>
             <li>
-              <a href="https://codebushi.com" className="icon fa-instagram">
+              <a href="https://www.instagram.com/lukaszsawicki.pl/" className="icon fa-instagram">
                 <span className="label">Instagram</span>
               </a>
             </li>
