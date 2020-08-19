@@ -80,7 +80,7 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Kontakt</h2>
-          <form method="post" action="https://www.flexyform.com/f/03fb37553140981cb8c6e0952029926b65631683">
+          <form method="post" action="https://www.flexyform.com/f/27100f12adad6bdb47d7cad19f23fbe8e4ff3a4f">
             <div className="field half first">
               <label htmlFor="name">Imię i nazwisko</label>
               <input type="text" name="name" id="name" />
