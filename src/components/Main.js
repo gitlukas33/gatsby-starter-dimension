@@ -105,14 +105,14 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
-                href="https://500px.com/lukas33"
+                href="https://500px.com/lukaszsawicki"
                 className="icon fa-500px"
               >
                 <span className="label">500px</span>
               </a>
             </li>
             <li>
-              <a href="hhttps://www.facebook.com/sawickifotografia" className="icon fa-facebook">
+              <a href="https://www.facebook.com/sawickifotografia" className="icon fa-facebook">
                 <span className="label">Facebook</span>
               </a>
             </li>
